@@ -1,0 +1,10 @@
+# 常见临时文件 / 环境变量 / 构建产物
+*.log
+*.tmp
+.DS_Store
+.env
+.env.*
+node_modules/
+dist/
+build/
+__pycache__/
